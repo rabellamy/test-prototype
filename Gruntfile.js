@@ -78,7 +78,7 @@ module.exports = function (grunt) {
   var remoteHost = os.networkInterfaces();
   for (var dev in remoteHost) {
     var alias = 0;
-    remoteHost[dev].forEach(function (details) {
+    _.forEach(remoteHost[dev], function (details) {
       if (details.family=='IPv4') {
         if (dev === 'en0') {
           remoteHost = details.address;
@@ -116,7 +116,7 @@ module.exports = function (grunt) {
   var gh_commit = userConfig.git.defaultCommit;
   var gh_upstream = userConfig.git.deployUpstream;
   var gh_deploy = userConfig.git.deployBranch;
-  
+
   //////////////////////////////
   //Grunt Config
   //////////////////////////////
@@ -583,11 +583,11 @@ module.exports = function (grunt) {
       grunt.task.run(['exec:commit:' + commit]);
     }
 
-    
+
     if (deploy) {
       grunt.task.run(['exec:deploy']);
     }
-    
+
   });
 
   //////////////////////////////
@@ -603,7 +603,7 @@ module.exports = function (grunt) {
     }
   });
 
-  
+
   //////////////////////////////
   // Deploy Task
   //////////////////////////////

@@ -1,0 +1,16 @@
+# Logfile created on 2014-01-07 19:53:09 -0500 by logger.rb/36483
+I, [2014-01-07T19:53:09.052817 #10120]  INFO -- : 0:  chunky_png (1.2.9) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/chunky_png-1.2.9.gemspec
+I, [2014-01-07T19:53:09.730536 #10120]  INFO -- : 0:  fssm (0.2.10) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/fssm-0.2.10.gemspec
+I, [2014-01-07T19:53:11.722924 #10120]  INFO -- : 0:  sass (3.2.13) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T19:53:23.529893 #10120]  INFO -- : 0:  compass (0.12.2) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/compass-0.12.2.gemspec
+I, [2014-01-07T19:53:24.522080 #10120]  INFO -- : 0:  breakpoint (2.0.7) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/breakpoint-2.0.7.gemspec
+I, [2014-01-07T19:53:28.674613 #10120]  INFO -- : 0:  compass-blend-modes (0.0.2) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/compass-blend-modes-0.0.2.gemspec
+I, [2014-01-07T19:53:29.279443 #10120]  INFO -- : 0:  color-schemer (0.2.8) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/color-schemer-0.2.8.gemspec
+I, [2014-01-07T19:53:30.271323 #10120]  INFO -- : 0:  compass-normalize (1.4.3) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/compass-normalize-1.4.3.gemspec
+I, [2014-01-07T19:53:30.888113 #10120]  INFO -- : 0:  sassy-math (1.5) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/sassy-math-1.5.gemspec
+I, [2014-01-07T19:53:31.801415 #10120]  INFO -- : 0:  modular-scale (1.0.6) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/modular-scale-1.0.6.gemspec
+I, [2014-01-07T19:53:35.683207 #10120]  INFO -- : 0:  sassy-strings (1.0.0) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/sassy-strings-1.0.0.gemspec
+I, [2014-01-07T19:53:37.262314 #10120]  INFO -- : 0:  singularitygs (1.1.2) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/singularitygs-1.1.2.gemspec
+I, [2014-01-07T19:53:38.540630 #10120]  INFO -- : 0:  toolkit (1.3.8) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/toolkit-1.3.8.gemspec
+I, [2014-01-07T19:53:39.796464 #10120]  INFO -- : 0:  style-prototypes (1.3.0) from /Users/rbellamy/Projects/test-prototype/.vendor/ruby/2.0.0/specifications/style-prototypes-1.3.0.gemspec
+I, [2014-01-07T19:53:39.797007 #10120]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source
